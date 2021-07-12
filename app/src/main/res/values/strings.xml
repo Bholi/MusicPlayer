@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="contentdes">Music Player img</string>
+    <string name="contprev">previous img</string>
+    <string name="contplay">play img</string>
+    <string name="contnext">next img</string>
+</resources>
